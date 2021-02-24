@@ -1,0 +1,51 @@
+this is a test.
+
+local directory - file 
+
+staging area----->track (add)
+
+local repo(HEAD)----->(commit)
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////
+github account
+---------->Remote repository (Example)
+---------->Local REPO to Remote REPO (Push)
+---------->Remote REPO to Local REPO (Pull)
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////
+for Connection
+HTTPS ---> use website link directly
+SSH -----> use secure shell
+GitHub CLI ----> 
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+SSH SETPS: (SSH RSA ENCRYPTION)  - (private and public key pair)
+1)Generate a key (ssh-keygen)
+2)Start your ssh agent (eval $(ssh-agent))
+
+2)add private key (ssh-add)
+
+3)Now use clip or cat command or any other graphical Notepad to copy the public key data 
+
+4)Go to setting in GitHub. Add key data.
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////
+
+Branches in github:
+
+chatApp (update every week) ---------------------> ( public ) you can call perfect vcersion - call it main/master
+
+if naya function add huva ----- video call-----  (complete ) you can merge in main/master (MAIN PART + Video)yahape milega to developer
+if ---------sticker-----------(not completed) - we can not add it in main/master (MAIN PART + STICKER)yahape milega to developer
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////
+
+Backup:
+test(local repo me hai) 
+
+
+
+
