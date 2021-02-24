@@ -1,5 +1,7 @@
 class Demo{
-    public static void fibonacci(){}
+    public static void fibonacci(){
+        System.out.println("This is series")
+    }
 }
 
 class Hello{
