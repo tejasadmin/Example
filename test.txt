@@ -45,7 +45,10 @@ if ---------sticker-----------(not completed) - we can not add it in main/master
 
 Backup:
 test(local repo me hai) 
+status 
+add if not
+git commit -m "Test file has notes" test.txt (commit)
 
-
+push (befor push is perform for the first time,WE NEED TO ADD URL (SSH VALA))
 
 
